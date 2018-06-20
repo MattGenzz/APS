@@ -1,0 +1,7 @@
+https://softwareengineering.stackexchange.com/questions/224638/to-mvc-or-not-mvc-that-is-the-question
+https://www.quora.com/When-does-it-make-sense-to-use-an-MVC-framework-for-JavaScript
+https://stackoverflow.com/questions/2179619/how-would-mvc-like-code-work-in-node-js
+https://blog.appdynamics.com/engineering/a-practical-guide-to-popular-node-js-mvc-frameworks/
+https://www.infoq.com/articles/no-more-mvc-frameworks
+https://www.sitepoint.com/node-js-mvc-application/
+https://ieeexplore.ieee.org/abstract/document/5734820/
